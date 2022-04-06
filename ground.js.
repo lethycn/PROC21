@@ -1,0 +1,13 @@
+class {
+    constructor(){
+        this=x;
+        this=y;
+        this=w;
+        this=h;
+
+
+
+    }display();
+    
+}
+
